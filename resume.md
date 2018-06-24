@@ -8,9 +8,11 @@ manorton@gmail.com | [LinkdIN/@mikeanorton](https://www.linkedin.com/in/mikeanor
 
 SKILLS
 --------------
-* **QAT**: QA Team Lead, Reporting, Test Design, Context/Risk/Exploratory/Usability Based Testing, Requirement Analysis, Defect Writing and Tracking, Test Plan Development, Mobile Testing.
+<!-- * **QAT**: QA Team Lead, Reporting, Test Design, Context/Risk/Exploratory/Usability Based Testing, Requirement Analysis, Defect Writing and Tracking, Test Plan Development, Mobile Testing.
 
-* **Other**: Agile, Soft Skills, SDLC, Remote Teams, Client Relations.
+* **Other**: Agile, Soft Skills, SDLC, Remote Teams, Client Relations. -->
+
+{%include skills.html%}
 
 TECHNOLOGIES
 ---------------
