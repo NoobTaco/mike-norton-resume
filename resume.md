@@ -3,21 +3,12 @@ layout: resume
 permalink: /fullresume/
 title: Mike Norton
 ---
-
 manorton@gmail.com | [LinkdIN/@mikeanorton](https://www.linkedin.com/in/mikeanorton/) | [twitter.com/@manorton](https://twitter.com/manorton)
 
 SKILLS
 --------------
-<!-- * **QAT**: QA Team Lead, Reporting, Test Design, Context/Risk/Exploratory/Usability Based Testing, Requirement Analysis, Defect Writing and Tracking, Test Plan Development, Mobile Testing.
-
-* **Other**: Agile, Soft Skills, SDLC, Remote Teams, Client Relations. -->
 
 {%include skills.html%}
-
-TECHNOLOGIES
----------------
-* **Testing Tools**: Team Foundry Server, MS Test Manager, Selenium, Galen, Automated Testing in MTM
-* **Core Technologies**: Linux, Windows, MacOS, Android, SQL Server, Siebel, MS Dynamics, Docker 
 
 EXPERIENCE
 ----------
@@ -25,7 +16,7 @@ EXPERIENCE
 
 EDUCATION
 ----------
- - Clear Creek Baptist Bible College - B.A. Ministry
+Clear Creek Baptist Bible College - B.A. Ministry
 
 PERSONAL
 ----------
