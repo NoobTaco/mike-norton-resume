@@ -1,0 +1,19 @@
+<!-- QAT Skills -->
+<div class="table">
+    <ul id="horizontal-list">
+        <li><strong>QAT: </strong> </li>
+        {% assign skillslist = site.data.skills | where: "title", "QAT" %} {% for skills in skillslist %}
+        <li>{{skills.content}}, </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<!-- Other Skills -->
+<div class="table">
+        <ul id="horizontal-list">
+            <li><strong>Other: </strong> </li>
+            {% assign skillslist = site.data.skills | where: "title", "Other" %} {% for skills in skillslist %}
+            <li>{{skills.content}}, </li>
+            {% endfor %}
+        </ul>
+    </div>
