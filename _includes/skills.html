@@ -1,7 +1,21 @@
+<!-- Industry Knowledge  Skills -->
+<div class="table">
+        <ul id="horizontal-list">
+            <li>
+                <strong>Industry Knowledge: </strong>
+            </li>
+            {% assign skillslist = site.data.skills | where: "title", "Industry Knowledge" %} {% for skills in skillslist %}
+            <li>{{skills.content}}, </li>
+            {% endfor %}
+        </ul>
+    </div>
+
 <!-- QAT Skills -->
 <div class="table">
     <ul id="horizontal-list">
-        <li><strong>QAT: </strong> </li>
+        <li>
+            <strong>QAT: </strong>
+        </li>
         {% assign skillslist = site.data.skills | where: "title", "QAT" %} {% for skills in skillslist %}
         <li>{{skills.content}}, </li>
         {% endfor %}
@@ -10,10 +24,36 @@
 
 <!-- Other Skills -->
 <div class="table">
-        <ul id="horizontal-list">
-            <li><strong>Other: </strong> </li>
-            {% assign skillslist = site.data.skills | where: "title", "Other" %} {% for skills in skillslist %}
-            <li>{{skills.content}}, </li>
-            {% endfor %}
-        </ul>
-    </div>
+    <ul id="horizontal-list">
+        <li>
+            <strong>Other: </strong>
+        </li>
+        {% assign skillslist = site.data.skills | where: "title", "Other" %} {% for skills in skillslist %}
+        <li>{{skills.content}}, </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<!-- Interpersonal Skills -->
+<div class="table">
+    <ul id="horizontal-list">
+        <li>
+            <strong>Interpersonal Skills: </strong>
+        </li>
+        {% assign skillslist = site.data.skills | where: "title", "Interpersonal Skills" %} {% for skills in skillslist %}
+        <li>{{skills.content}}, </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<!-- Tools & Technologies Skills -->
+<div class="table">
+    <ul id="horizontal-list">
+        <li>
+            <strong>Tools & Technologies: </strong>
+        </li>
+        {% assign skillslist = site.data.skills | where: "title", "Tools and Technologies" %} {% for skills in skillslist %}
+        <li>{{skills.content}}, </li>
+        {% endfor %}
+    </ul>
+</div>
