@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Owner / Community Manager
 employer: Mike Norton Media
 startdate: Jun 2008

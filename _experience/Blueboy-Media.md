@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Owner Designer
 employer: Blueboy Media
 startdate: Jan 2005

@@ -1,1 +1,0 @@
-  - Clear Creek Baptist Bible College - B.A. Ministry

@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Owner
 employer: GMPodcasting
 startdate: Mar 2004

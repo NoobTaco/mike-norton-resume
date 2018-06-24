@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Senior Pastor
 employer: First Baptist Church, Live Oak
 startdate: Nov 2003

@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Creator and Social Media Manager
 employer: TOR Hangouts
 startdate:   Nov 2011 

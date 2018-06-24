@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Cashier
 employer: Sams Club
 startdate: Jul 2009

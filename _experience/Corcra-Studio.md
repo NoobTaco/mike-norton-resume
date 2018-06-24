@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Owner
 employer: Corcra Studio
 startdate: Jan 2017

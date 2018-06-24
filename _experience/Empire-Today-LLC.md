@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  IT QA Lead
 employer: Empire Today LLC
 startdate: Aug 2015

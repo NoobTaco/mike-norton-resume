@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Charter School Administrator
 employer: Magalia Pines Academy
 startdate: Mar 2000

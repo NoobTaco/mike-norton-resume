@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  QA Analyst
 employer: Magenic
 startdate:   June 2012 

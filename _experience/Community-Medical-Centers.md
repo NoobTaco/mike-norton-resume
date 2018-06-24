@@ -1,5 +1,4 @@
 ---
-layout: experience
 title:  Computer Operator
 employer: Rideout Health
 startdate: Oct 1992
