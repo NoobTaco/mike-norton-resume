@@ -5,6 +5,7 @@ employer: Magenic
 startdate:   June 2012 
 enddate: Aug 2015
 categories: resume qa qalead
+order: 10
 ---
 
   - Created and executed test scenarios based on artifacts provided by clients.

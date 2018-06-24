@@ -5,6 +5,7 @@ employer: Magalia Pines Academy
 startdate: Mar 2000
 enddate: Sep 2003
 categories: resume education
+order: 3
 ---
 
   - Supervised a staff of 10 teachers and administrators in the education of average population of 80 students. 

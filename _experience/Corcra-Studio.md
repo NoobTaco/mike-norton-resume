@@ -5,6 +5,7 @@ employer: Corcra Studio
 startdate: Jan 2017
 enddate: Present
 categories: resume webdev 3d 
+order: 12
 ---
 
 

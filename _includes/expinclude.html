@@ -1,0 +1,5 @@
+{% assign experiencelist = site.experience | sort: "order" %} {% for experience in experiencelist reversed %}
+<p>
+    <strong>{{experience.title}}</strong>,
+    <em>{{experience.employer}}</em> {{experience.startdate}} - {{experience.enddate}} </p>
+{{experience.content}} {% endfor %}

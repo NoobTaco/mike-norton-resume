@@ -5,6 +5,7 @@ employer: Blueboy Media
 startdate: Jan 2005
 enddate: Jun 2008
 categories: resume webdev multimedia
+order: 6
 ---
 
 <!-- Specialized in custom installments of content management systems making the daily maintenance of the client's site easier.

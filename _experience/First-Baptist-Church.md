@@ -5,6 +5,7 @@ employer: First Baptist Church, Live Oak
 startdate: Nov 2003
 enddate: Apr 2008
 categories: resume church
+order: 5
 ---
 
 <!-- Responsible for the management and growth both spiritual and numerical of the church congregation: church administration, counseling, employee supervision, long and short range planning. Developed and implemented technology into the church, including streaming video.

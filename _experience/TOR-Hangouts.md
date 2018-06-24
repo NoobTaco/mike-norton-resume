@@ -5,6 +5,7 @@ employer: TOR Hangouts
 startdate:   Nov 2011 
 enddate: Jul 2012
 categories: resume media socialmedia 
+order: 9
 ---
 
 <!-- Creator of the TOR Hangout, a Google+ Hangout for fans of the BioWare game, Star Wars: The Old Republic.

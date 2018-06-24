@@ -5,6 +5,7 @@ employer: Mike Norton Media
 startdate: Jun 2008
 enddate: June 2012
 categories: resume webdev multimedia
+order: 8
 ---
 
 <!-- Custom websites to consulting to technical support.
