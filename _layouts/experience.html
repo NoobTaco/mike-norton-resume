@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for experience in site.experience %}
+<p><strong>{{experience.title}}</strong>, <em>{{experience.employer}}</em> {{experience.startdate}} - {{experience.enddate}} </p>
+
+<div>{{experience.content}}</div>
+{% endfor %}
