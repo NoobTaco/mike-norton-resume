@@ -3,7 +3,7 @@ layout: resume
 permalink: /fullresume/
 title: Mike Norton
 ---
-manorton@gmail.com | [LinkdIN/@mikeanorton](https://www.linkedin.com/in/mikeanorton/) | [twitter.com/@manorton](https://twitter.com/manorton)
+manorton@gmail.com - 559-907-4372 - [LinkdIN/@mikeanorton](https://www.linkedin.com/in/mikeanorton/) - [twitter.com/@manorton](https://twitter.com/manorton)
 
 SKILLS
 --------------
