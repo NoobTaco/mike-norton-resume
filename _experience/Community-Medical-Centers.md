@@ -1,9 +1,9 @@
 ---
 layout: experience
 title:  Computer Operator
-employer: Rideout Health
-startdate: Oct 1992
-enddate: Jul 1993
+employer: Community Medical Centers
+startdate: Jan 1991
+enddate: Oct 1992
 categories: resume computer tech hospital
 order: 1
 ---
